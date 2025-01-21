@@ -39,11 +39,3 @@ JWT_SECRET = 'xxxxx'
 PAYPAL_CLIENT_ID = your paypal client id
 
 ```
-
-## Show some :heart: and :star: the repo, if you like the project.
-
-### Landing Page Snapshot
-[![bookstoresite herokuapp com_](https://user-images.githubusercontent.com/42378118/98068030-f3cede00-1e80-11eb-9277-66e1ebd88893.png)](https://bookstoresite.herokuapp.com/)
-
-
- [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
